@@ -2,6 +2,6 @@
   "version": "1.0.0",
   "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.0/Grozem-ERP-1.0.0.zip",
   "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.0/Grozem-ERP-1.0.0.zip",
-  "notes": "Grozem ERP 1.0.0 — first public marker (installer publish comes with first release).",
-  "publishedAt": "2026-10-16T00:00:00.000Z"
+  "notes": "Grozem ERP 1.0.0 — first public build. Money/sync hardening (void refunds kept on multi-PC merge), inventory COGS fix for partial stock, price levels, Online Shop plain wording, cloud API password-reset and schema hardening.",
+  "publishedAt": "2026-10-23T18:00:45.473Z"
 }
