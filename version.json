@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.2/Grozem-ERP-1.0.2.zip",
-  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.2/Grozem-ERP-1.0.2.zip",
-  "notes": "Money collapse after returns, Cloud wallet parity, Cloud register/IP hardening, Cloud email unlink support.",
-  "publishedAt": "2026-10-26T17:21:30.677Z"
+  "version": "1.0.3",
+  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.3/Grozem-ERP-1.0.3.zip",
+  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.3/Grozem-ERP-1.0.3.zip",
+  "notes": "Restricted products (admin block + ERP/Cloud list). Online Shop and sync updates.",
+  "publishedAt": "2026-10-30T05:53:59.060Z"
 }
