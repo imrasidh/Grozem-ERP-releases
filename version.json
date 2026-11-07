@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.4/Grozem-ERP-1.0.4.zip",
-  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.4/Grozem-ERP-1.0.4.zip",
-  "notes": "Year-archive wake sync, payment pending-cheque guards, and fresh-install SEC hardening (legacy LAN gated, server online totals, counter approve required).",
-  "publishedAt": "2026-11-04T12:49:09.012Z"
+  "version": "1.0.5",
+  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.5/Grozem-ERP-1.0.5.zip",
+  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.5/Grozem-ERP-1.0.5.zip",
+  "notes": "Rentals module: fleet, bookings, separate Issue and Return pages with A4/A5 print.",
+  "publishedAt": "2026-11-07T19:33:53.336Z"
 }
