@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.6/Grozem-ERP-1.0.6.zip",
-  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.6/Grozem-ERP-1.0.6.zip",
-  "notes": "Clear auto-seeded print/demo sample data; Rentals starts empty.",
-  "publishedAt": "2026-11-08T05:12:35.623Z"
+  "version": "1.0.7",
+  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.7/Grozem-ERP-1.0.7.zip",
+  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.7/Grozem-ERP-1.0.7.zip",
+  "notes": "Faster close backup, title-bar Backup button, Backup & Close confirm, and clearer sample-data purge for real installs.",
+  "publishedAt": "2026-11-08T07:43:36.327Z"
 }
