@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.7/Grozem-ERP-1.0.7.zip",
-  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.7/Grozem-ERP-1.0.7.zip",
-  "notes": "Faster close backup, title-bar Backup button, Backup & Close confirm, and clearer sample-data purge for real installs.",
-  "publishedAt": "2026-11-08T07:43:36.327Z"
+  "version": "1.0.8",
+  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.8/Grozem-ERP-1.0.8.zip",
+  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.8/Grozem-ERP-1.0.8.zip",
+  "notes": "Fix Reset All Data so old bills cannot come back; stronger cleanup of leftover STMT-TEST / sample rows on login.",
+  "publishedAt": "2026-11-08T08:01:40.153Z"
 }
