@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.5/Grozem-ERP-1.0.5.zip",
-  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.5/Grozem-ERP-1.0.5.zip",
-  "notes": "Rentals module: fleet, bookings, separate Issue and Return pages with A4/A5 print.",
-  "publishedAt": "2026-11-07T19:33:53.336Z"
+  "version": "1.0.6",
+  "url": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.6/Grozem-ERP-1.0.6.zip",
+  "download": "https://github.com/imrasidh/Grozem-ERP-releases/releases/download/v1.0.6/Grozem-ERP-1.0.6.zip",
+  "notes": "Clear auto-seeded print/demo sample data; Rentals starts empty.",
+  "publishedAt": "2026-11-08T05:12:35.623Z"
 }
